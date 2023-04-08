@@ -10,4 +10,4 @@ To test the application go to Screen resolution\Screen resolution\bin\Release\Sc
 
 ## Screenshots
 
-![App Screenshot](https://github.com/AflaxCade/Screen-resolution/blob/master/Screen%20resolution.png?raw=true)
+![App Screenshot](https://github.com/AflaxCade/Screen-resolution/blob/master/Screen%20resolution.PNG?raw=true)
