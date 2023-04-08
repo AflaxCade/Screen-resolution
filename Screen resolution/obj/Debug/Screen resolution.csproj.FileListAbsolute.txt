@@ -1,0 +1,11 @@
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\bin\Debug\Screen resolution.exe.config
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\bin\Debug\Screen resolution.exe
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\bin\Debug\Screen resolution.pdb
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\obj\Debug\Screen resolution.csproj.AssemblyReference.cache
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\obj\Debug\Screen resolution.csproj.SuggestedBindingRedirects.cache
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\obj\Debug\Screen_resolution.main.resources
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\obj\Debug\Screen_resolution.Properties.Resources.resources
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\obj\Debug\Screen resolution.csproj.GenerateResource.cache
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\obj\Debug\Screen resolution.csproj.CoreCompileInputs.cache
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\obj\Debug\Screen resolution.exe
+C:\Users\aflax\source\repos\Screen resolution\Screen resolution\obj\Debug\Screen resolution.pdb
